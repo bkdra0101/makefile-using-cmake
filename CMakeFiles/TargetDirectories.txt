@@ -1,0 +1,3 @@
+/home/pi/makefile/CMakeFiles/CMakeHello.dir
+/home/pi/makefile/CMakeFiles/edit_cache.dir
+/home/pi/makefile/CMakeFiles/rebuild_cache.dir
